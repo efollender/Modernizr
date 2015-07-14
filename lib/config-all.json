@@ -118,7 +118,6 @@
     "dom/createElement-attrs",
     "dom/dataset",
     "dom/documentfragment",
-    "dom/hidden",
     "dom/microdata",
     "dom/mutationObserver",
     "elem/datalist",

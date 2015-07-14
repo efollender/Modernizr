@@ -37,7 +37,8 @@
     "proxyquire": "^1.3.1"
   },
   "scripts": {
-    "test": "grunt test --stack"
+    "test": "grunt test --stack",
+    "install": "./bin/modernizr"
   },
   "main": "./lib/cli",
   "bin": "./bin/modernizr",

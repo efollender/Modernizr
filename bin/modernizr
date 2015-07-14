@@ -47,7 +47,7 @@ var argv = yargs.argv;
 var cwd = process.cwd();
 var dest = cwd + '/modernizr.js';
 var inlineConfig;
-var configPath;
+var configPath = path.resolve(__dirname, '../lib/config-all.json');
 var config;
 
 function log() {
